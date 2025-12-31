@@ -7,7 +7,7 @@ __________________________________
 - #### since  my GPU limit is over , waiting for Re-charge of GPU
 - #### in Kaggle
 
-## Some samples
+## MY Working Samples
 ________________
 #### 1.
 ![Object Class Detector](MyAssets/Objet_Class_Detector.jpeg)
