@@ -13,7 +13,7 @@ ________________
 ![Object Class Detector](MyAssets/Objet_Class_Detector.jpeg)
 
 #### 2.
-![Cow Shadow Detector](MYAssets/cow_shadow_detector.jpeg)
+![Cow Shadow Detector](MyAssets/cow_shadow_detector.jpeg)
 
 
 
