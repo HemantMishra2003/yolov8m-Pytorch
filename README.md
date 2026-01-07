@@ -4,8 +4,8 @@ __________________________________
 - #### This model is not completed yet and is still under active development.
 - #### I am continuously improving the model performance and experimenting
 - #### with better training and tuning strategies.
-- #### since  my GPU limit is over , waiting for Re-charge of GPU
-- #### in Kaggle
+- #### since  my GPU limit is over , waiting for Re-charge of GPU in Kaggle
+  
 
 ## MY Working Samples
 ________________
